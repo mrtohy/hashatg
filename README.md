@@ -11,6 +11,6 @@ Use this program to generate hashtags for Instagram
 ### Download database
 
 <p>Total items 3413</p>
-[Download](https://telegram.org/tp1290).
 
+Download database **[hashtag.db](https://telegram.org/tp1290)**.
 
