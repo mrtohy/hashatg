@@ -9,6 +9,8 @@ Use this program to generate hashtags for Instagram
 2. Need internet (online)
 
 ### Download database
-<a herf="https://www.w3schools.com/tags/tag_a.asp">Download</a>
+
+<p>Total items 3413</p>
+[Download](https://telegram.org/tp1290).
 
 
